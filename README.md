@@ -8,6 +8,7 @@
 * Đặng Công Hùng (Dev)
 
 ## Đề tài web bán điện thoại 
+![image](https://github.com/Anhbinhcasau/Nhom2_Webbandienthoai_T4_Ca3/assets/109029860/06ae5a87-d249-4dcc-8d1e-b25ce9fb70e6)
 
 Hệ thống bán điện thoại Online “BHHD” là hệ thống cho phép người dùng lựa chọn và mua sắm các sản phẩm thông qua website.
 Khách hàng có thể dễ dàng xem thông tin chi tiết về các sản phẩm, chính sách bảo hành, đổi trả và chính sách giá cả của công ty. Việc thanh toán có thể được thực hiện trực tuyến thông qua các phương thức thanh toán an toàn. Khách hàng cũng có thể lựa chọn nhận hàng tại cửa hàng hoặc sử dụng dịch vụ giao hàng có phí của công ty.
@@ -23,5 +24,10 @@ Chi tiết về các chức năng và thông tin sản phẩm điện thoại di
 ## Công nghệ 
 
 ### Nestjs + Mô hình MVC + MongoDB
-* https://nestjs.com/
-* https://www.mongodb.com/docs/manual/core/document/
+* https://nestjs.com/ ![image](https://github.com/Anhbinhcasau/Nhom2_Webbandienthoai_T4_Ca3/assets/109029860/40236dbe-b4d7-48da-bce1-aa12c7149abd)
+
+* https://www.mongodb.com/docs/manual/core/document/ ![image](https://github.com/Anhbinhcasau/Nhom2_Webbandienthoai_T4_Ca3/assets/109029860/e2f603b8-076d-4396-a41f-e929978d9829)
+
+## Những gì đã làm 
+
+## Hướng phát triển
