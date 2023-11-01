@@ -30,16 +30,16 @@ Chi tiết về các chức năng và thông tin sản phẩm điện thoại di
 
 ## Những gì đã làm 
 Những tính năng đã làm : 
-	Tính năng quản lý sản phẩm
-	Tính năng quản lý tài khoản
-	Tính năng quản lý khách hàng
-	Tính năng quản lý tiến trình đơn hàng
-	Tính năng quản lý giá cả và khuyến mãi
-	Tính năng quản lý giỏ hàng
-	Tính năng quản lý kho hàng
-	Tính năng quản lý danh mục sản phẩm
-	Tính năng đánh giá
-	Tính năng đặt hàng
+- Tính năng quản lý sản phẩm
+- Tính năng quản lý tài khoản
+- Tính năng quản lý khách hàng
+- Tính năng quản lý tiến trình đơn hàng
+- Tính năng quản lý giá cả và khuyến mãi
+- Tính năng quản lý giỏ hàng
+- Tính năng quản lý kho hàng
+- Tính năng quản lý danh mục sản phẩm
+- Tính năng đánh giá
+- Tính năng đặt hàng
 
 
 ## Hướng phát triển
