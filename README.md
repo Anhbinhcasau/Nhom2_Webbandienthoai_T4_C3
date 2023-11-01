@@ -29,5 +29,20 @@ Chi tiết về các chức năng và thông tin sản phẩm điện thoại di
 * https://www.mongodb.com/docs/manual/core/document/ ![image](https://github.com/Anhbinhcasau/Nhom2_Webbandienthoai_T4_Ca3/assets/109029860/e2f603b8-076d-4396-a41f-e929978d9829)
 
 ## Những gì đã làm 
+Những tính năng đã làm : 
+	Tính năng quản lý sản phẩm
+	Tính năng quản lý tài khoản
+	Tính năng quản lý khách hàng
+	Tính năng quản lý tiến trình đơn hàng
+	Tính năng quản lý giá cả và khuyến mãi
+	Tính năng quản lý giỏ hàng
+	Tính năng quản lý kho hàng
+	Tính năng quản lý danh mục sản phẩm
+	Tính năng đánh giá
+	Tính năng đặt hàng
+
 
 ## Hướng phát triển
+
+Đặt hàng có thể thanh toán bằng nhiều hình thức hơn như Momo , ZaloPay , VnPay
+
