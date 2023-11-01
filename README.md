@@ -2,10 +2,10 @@
 
 ## Thành viên nhóm
 
-* Huỳnh Thanh Bình
-* Đoàn Đức Đại
-* Phạm Tuyết Hà
-* Đặng Công Hùng
+* Huỳnh Thanh Bình (Scrum Master)
+* Đoàn Đức Đại (Dev)
+* Phạm Tuyết Hà (Product Owner)
+* Đặng Công Hùng (Dev)
 
 ## Đề tài web bán điện thoại 
 
