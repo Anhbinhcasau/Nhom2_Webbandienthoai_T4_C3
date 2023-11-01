@@ -43,6 +43,6 @@ Những tính năng đã làm :
 
 
 ## Hướng phát triển
-Có thể thương mại điện tử cho web và bán được sản phẩm 
-Đặt hàng có thể thanh toán bằng nhiều hình thức hơn như Momo , ZaloPay , VnPay
+- Có thể thương mại điện tử cho web và bán được sản phẩm 
+- Đặt hàng có thể thanh toán bằng nhiều hình thức hơn như Momo , ZaloPay , VnPay
 
